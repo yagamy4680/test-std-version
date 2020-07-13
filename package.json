@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "conventional-changelog-cli": "^2.0.23",
-    "standard-version": "^7.0.0",
+    "standard-version": "^8.0.1",
     "colors": "*"
   },
   "devDependencies": {},
